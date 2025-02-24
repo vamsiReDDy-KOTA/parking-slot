@@ -1,0 +1,14 @@
+{
+  "name": "autospace",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
